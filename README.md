@@ -10,4 +10,4 @@
 - It takes a few seconds to render full window.
 <br>
 <h3>Result Screenshot</h3>
-<img src="https://github.com/user-attachments/assets/e7d2722a-1691-4a2a-be61-9ecd4332eacb">
+<img src="https://github.com/user-attachments/assets/ff72d709-841f-43ba-993a-597d6e4ed4ba">
